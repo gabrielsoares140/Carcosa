@@ -4,7 +4,7 @@ const books = {
         title:"Egito Antigo",
         era:"Antiguidade",
         icon:"𓂀",
-        subtitle:"A Terra dos Faraós",
+        subtitle:"A Terra dos Faraós.",
         content:`
             <h2>O Nilo</h2>
             <p>
